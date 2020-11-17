@@ -1,0 +1,10 @@
+{
+  "repository": {
+      "type": "module"
+  },
+  "dependencies": {
+    "graphql": "^15.4.0",
+    "graphql-ws": "^1.14.0",
+    "https": "^1.0.0"
+  }
+}
